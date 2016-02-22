@@ -1,3 +1,6 @@
 [submodule "u8cc7-u6599-u79d1-u5b78-u9762-u9762-u89c0"]
 	path = issue-3-資料科學面面觀
 	url = https://github.com/joyhuang-note/u8cc7-u6599-u79d1-u5b78-u9762-u9762-u89c0.git
+[submodule "u6a5f-u5668-u5b78-u7fd2-u5beb-u8a69-u4f5c-u756b"]
+	path = issue-13-機器學習寫詩作畫
+	url = https://github.com/joyhuang-note/u6a5f-u5668-u5b78-u7fd2-u5beb-u8a69-u4f5c-u756b.git
